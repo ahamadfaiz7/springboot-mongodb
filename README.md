@@ -49,7 +49,7 @@ The following are some of MongoDB benefits and strengths:
 1. You need ACID compliancy (Atomicity, Consistency, Isolation, Durability). ACID compliancy reduces anomalies and protects the integrity of your database. It does this by defining exactly how transactions interact with the database, which is not the case with NoSQL databases, which have a primary goal of flexibility and speed, rather than 100% data integrity.
 2. Your data is structured and unchanging:If your business is not growing exponentially, there may be no reason to use a system designed to support a variety of data types and high traffic volume.
 
-#Reasons to Use a NoSQL Database
+# Reasons to Use a NoSQL Database
 1. Storing large volumes of data without structure. A NoSQL database doesn’t limit storable data types. Plus, you can add new types as business needs change.
 2. Using cloud computing and storage. Cloud-based storage is a great solution, but it requires data to be easily spread across multiple servers for scaling. Using affordable hardware on-site for testing and then for production in the cloud is what NoSQL databases are designed for.
 3. Rapid development. If you are developing using modern agile methodologies, a relational database will slow you down. A NoSQL database doesn’t require the level of preparation typically needed for relational databases.
